@@ -12,6 +12,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 // git pubsh test
+// git gui test
 		System.out.println( 1 <<0x01f);
 		System.out.println(Integer.bitCount(0));
 		
